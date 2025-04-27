@@ -1,0 +1,6 @@
+Veranstaltungsmanagement
+Veranstaltungen organisieren
+Dienstreisen organisieren
+Reisekostenabrechnung erstellen
+Veranstaltungen nachbearbeiten und bewerten
+Lernzielkontrolle 
